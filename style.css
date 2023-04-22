@@ -1,0 +1,13 @@
+html {
+    background-color: aqua;
+}
+.img {
+    max-width: 300px;
+    max-height: 300px;
+}
+.aboutMe {
+    font-family:'Times New Roman', Times, serif;
+}
+ul {
+    list-style-type: none;
+}
